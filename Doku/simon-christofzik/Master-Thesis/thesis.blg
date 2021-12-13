@@ -1,0 +1,26 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'thesis.blg'
+[42] biber:340> INFO - === Mo Dez  6, 2021, 22:25:55
+[50] Biber.pm:415> INFO - Reading 'thesis.bcf'
+[102] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[102] Biber.pm:952> INFO - Found 4 citekeys in bib section 1
+[103] Biber.pm:952> INFO - Found 21 citekeys in bib section 0
+[117] Biber.pm:4340> INFO - Processing section 0
+[123] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/references.bib' for section 0
+[124] bibtex.pm:1689> INFO - LaTeX decoding ...
+[143] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/references.bib'
+[196] Utils.pm:395> WARN - legacy month field 'July' in entry 'reynolds1987' is not an integer - this will probably not sort properly.
+[255] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_ubm8/33e59b5ca9ec342068223d604c3f8d55_169768.utf8, line 38, warning: possible runaway string started at line 37
+[278] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[278] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[278] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de_DE'
+[278] Biber.pm:4174> INFO - No sort tailoring available for locale 'de_DE'
+[294] Biber.pm:4340> INFO - Processing section 1
+[294] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/references.bib' for section 1
+[319] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[319] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[319] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de_DE'
+[319] Biber.pm:4174> INFO - No sort tailoring available for locale 'de_DE'
+[322] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[333] bbl.pm:757> INFO - Output to thesis.bbl
+[333] Biber.pm:128> INFO - WARNINGS: 2

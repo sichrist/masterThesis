@@ -1,0 +1,73 @@
+% Include header
+\include{header/header}
+\include{header/options}
+
+% Set variables used in cover, title, abstract and affidavit.
+\newcommand{\ausgabedatum}{5.  Mai 2021}
+\newcommand{\abgabedatum}{8. Dezember 2021}
+\newcommand{\autor}{Simon Christofzik}
+\newcommand{\autorStrasse}{Engelbrechtstr 39}
+\newcommand{\autorPLZ}{78234}
+\newcommand{\autorOrt}{Engen}
+\newcommand{\autorGeburtsort}{Engen}
+\newcommand{\autorGeburtsdatum}{01.11.1989}
+\newcommand{\prueferA}{Prof. Dr. Rebekka Axthelm}
+\newcommand{\prueferB}{Prof. Dr. Oliver Dürr}
+\newcommand{\firmaA}{Hochschule Konstanz Technik, Wirtschaft und Gestaltung}
+\newcommand{\firmaB}{Institut für Optische Systeme}
+\newcommand{\studiengang}{Master of Science Informatik}
+
+
+\newcommand{\thema}{Modellierung von Schwarmverhalten, Untersuchung von Methoden zur Parameter Approximation}
+
+\newcommand{\schlagworte}{Boids, Collective behaviour, Reverse mode differentiation, Particle swarm optimization}
+
+\addbibresource{bib/references.bib}
+\begin{document}
+	
+
+% Include title pages
+\include{title/cover}
+\include{title/title}
+
+% Set page numbering to roman
+\pagenumbering{Roman}
+
+% Include abstract and affidavit
+\include{title/affidavit}
+\include{title/abstract}
+\include{title/extended_abstract}
+\include{title/danksagung}
+% Include table of contents
+\tableofcontents
+\newpage
+%\include{acronyms}
+
+
+% Aktuelle Seitenzahl in einem Zähler speichern
+% -> römische Seitennummerierung soll durchgängig
+% sein und wird nachher wieder aufgegriffen.
+% --------------------------------------------------------
+\newcounter{anhang}
+\setcounter{anhang}{\value{page}}
+
+% Set page numbering to arabic
+\pagenumbering{arabic}
+
+% Include the chapters
+% ---------------------------------------------------------------------------
+\include{chapters/einfuehrung}
+\include{chapters/grundlagen}
+\include{chapters/aktueller_forschungsstand}
+\include{chapters/experimente}
+\include{chapters/fazit}
+
+% ---------------------------------------------------------------------------
+\pagenumbering{Roman}
+\setcounter{page}{\value{anhang}}
+\include{chapters/bibliography}
+\include{chapters/listoffigures}
+\include{chapters/listoftables}
+\include{appendix/appendix}
+
+\end{document}

@@ -1,0 +1,20 @@
+% !TEX root = ../thesis.tex
+
+\chapter{Fazit und Ausblick} % (fold)
+\label{cha:chapter_name}
+
+Diese Masterthesis hatte das Ziel, Parameter für Modelle zu bestimmen, durch die Zustände eines echten Schwarms erreicht werden.
+Hierfür wurden zuerst zwei einfache Szenarien betrachtet, wodurch gezeigt wurde, dass Parameter für künstlich erzeugte Daten geschätzt werden können. Das erste Szenario befasste sich mit einem konstanten Parameterset, welches eine Sequenz an künstlichen Daten erzeugte. Dieses Experiment hat gezeigt, dass das Schätzen der Parameter die gleichen Zustände in Abhängigkeit der Zeit zur Folge hat. Die Parameter konnten für beide Modelle nicht exakt approximiert werden. Die hieraus resultierenden Trajektorien unterscheiden sich hingegen entweder marginal oder zeigen dieselbe Charakteristik auf.
+
+Auch das zweite Experiment zeigte, dass künstliche Daten, welche durch Parameter, die sich über die Zeit hinweg ändern, approximieren lassen. Auch hier konnten die Zustände der künstlichen Daten durch die Approximation erreicht werden. In keinem der beiden Experimenten stellte sich ein Rotationszustand oder Polarisationszustand ein. Dies war allerdings auch nicht Ziel der Experimente.
+
+Die Approximation der Parameter anhand Realdaten zeigte, dass die Modelle unterschiedlich geeignet sind. Das metrische Boids Modell kann die Zustände der Realdaten nicht imitieren. Das eigene Modell hingegen zeigt vergleichbare Zustände. Die Trajektorien beider Modelle sind nicht vergleichbar mit den Trajektorien der Realdaten. Während beim eigenen Modell die Agenten immer wieder in Richtung Mittelpunkt gezogen werden, zeigt das metrische Boids Modell keinerlei realistische Laufwege.
+
+Zukünftige Arbeiten sollten sich in erster Linie auf die Parameterapproximation des Boids Modelles konzentrieren. So gut PSO für einige Probleme funktionieren mag, hat dieses Verfahren hier gezeigt, dass es die gewünschten Ergebnisse nicht produzieren kann. 
+RMD ist in dieser Hinsicht ein zuverlässigeres Verfahren, welches der Approximation im Bezug auf Boids zugutekommen könnte.
+Das eigene Modell zeigt zwar Rotationseigenschaften im Diagramm, jedoch nicht innerhalb der Trajektorien. Das Modell von Boids besitzt zwar theoretisch die Möglichkeit zu rotieren, dies lies sich in den Experimenten jedoch nicht abbilden.
+Hier sollten zukünftige Arbeiten Anpassungen vornehmen. Für das Boidsmodell sollte der topologische Ansatz untersucht werden.
+Dadurch kann das Problem des Auseinanderdriftens, wie es in dem letzten Versuch der Fall war, vermieden werden.
+Das eigene Modell könnte eine weitere Gewichtungsfunktion erhalten, die sicherstellt, dass Agenten ab einer gewissen Distanz zum Mittelpunkt von diesem abgestoßen werden.
+
+% chapter chapter_name (end)

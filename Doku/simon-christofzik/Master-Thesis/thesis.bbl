@@ -1,0 +1,1062 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Ballerini}{article}{}
+      \name{author}{12}{}{%
+        {{hash=522179fa9bcaddf834829b71278bb58e}{%
+           family={Ballerini},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=73e31acea8c6106363473a40291edfd6}{%
+           family={Cabibbo},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=48dc9f952c545ae3d61e07a1ccf3a78b}{%
+           family={Candelier},
+           familyi={C\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b380302bcdab120a370a879163a0d0aa}{%
+           family={Cavagna},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=54e47d7961bf70b524e6eb89b26c0b4b}{%
+           family={Cisbani},
+           familyi={C\bibinitperiod},
+           given={Evaristo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a69ec0a10dd36d6ac7becd0c1292d5c6}{%
+           family={Giardina},
+           familyi={G\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=91a2c37b93c0a7843429bc7cead36b74}{%
+           family={Lecomte},
+           familyi={L\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=faf5c200c3e331c7e78956f4ac248c45}{%
+           family={Orlandi},
+           familyi={O\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=999cb1499cae8fb8fa489c06d7be3b01}{%
+           family={Parisi},
+           familyi={P\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fc1bdd8ad28b2b6d9e0e286f31865ec9}{%
+           family={Procaccini},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=800b21f217810a8b8f6d3681d17e2c80}{%
+           family={Viale},
+           familyi={V\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f54af0e7a4ca02b2cd06f4f095fa5a69}{%
+           family={Zdravkovic},
+           familyi={Z\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b6fdda3192347ff1a991bcc5b977563}
+      \strng{fullhash}{1d6d754ebba41278b3e7f0c64356955f}
+      \strng{bibnamehash}{5b6fdda3192347ff1a991bcc5b977563}
+      \strng{authorbibnamehash}{5b6fdda3192347ff1a991bcc5b977563}
+      \strng{authornamehash}{5b6fdda3192347ff1a991bcc5b977563}
+      \strng{authorfullhash}{1d6d754ebba41278b3e7f0c64356955f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{02}
+      \field{title}{Interaction Ruling Animal Collective Behaviour Depends on Topological rather than Metric Distance: Evidence from a Field Study}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{1232\bibrangedash 7}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.0711437105
+      \endverb
+    \endentry
+    \entry{Couzin2002CollectiveMA}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2f62b6aee41665c647c022eea795e862}{%
+           family={Couzin},
+           familyi={C\bibinitperiod},
+           given={Iain\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b6db3c5ae1ca380e804836bbb90bd8a6}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=beb13fb240d0f37a635982010b6a4bb1}{%
+           family={Ruxton},
+           familyi={R\bibinitperiod},
+           given={Graeme\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3732fd36be57966054822f3397e1b43a}{%
+           family={Franks},
+           familyi={F\bibinitperiod},
+           given={Nigel\bibnamedelima R.},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{fullhash}{319f755b24cd4cedcae2c0c098a23132}
+      \strng{bibnamehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{authorbibnamehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{authornamehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{authorfullhash}{319f755b24cd4cedcae2c0c098a23132}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of theoretical biology}
+      \field{title}{Collective memory and spatial sorting in animal groups.}
+      \field{volume}{218 1}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{Adam}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2d13f5212eef87148e6e5707d77771e7}{%
+           family={Diederik\bibnamedelimb P.\bibnamedelimi Kingma},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Jimmy\bibnamedelima Ba},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d13f5212eef87148e6e5707d77771e7}
+      \strng{fullhash}{2d13f5212eef87148e6e5707d77771e7}
+      \strng{bibnamehash}{2d13f5212eef87148e6e5707d77771e7}
+      \strng{authorbibnamehash}{2d13f5212eef87148e6e5707d77771e7}
+      \strng{authornamehash}{2d13f5212eef87148e6e5707d77771e7}
+      \strng{authorfullhash}{2d13f5212eef87148e6e5707d77771e7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Adam: A Method for Stochastic Optimization}
+      \field{year}{2014}
+      \field{pages}{249\bibrangedash 256}
+      \range{pages}{8}
+    \endentry
+    \entry{farnebäck2002polynomial}{book}{}
+      \name{author}{1}{}{%
+        {{hash=68dbcc0f08fe76eaea2e60d1339082b0}{%
+           family={Farnebäck},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Institut of Technology Linköping University. Department of Electrical Engineering}%
+      }
+      \strng{namehash}{68dbcc0f08fe76eaea2e60d1339082b0}
+      \strng{fullhash}{68dbcc0f08fe76eaea2e60d1339082b0}
+      \strng{bibnamehash}{68dbcc0f08fe76eaea2e60d1339082b0}
+      \strng{authorbibnamehash}{68dbcc0f08fe76eaea2e60d1339082b0}
+      \strng{authornamehash}{68dbcc0f08fe76eaea2e60d1339082b0}
+      \strng{authorfullhash}{68dbcc0f08fe76eaea2e60d1339082b0}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789173734752}
+      \field{series}{Linköping studies in science and technology : Dissertation}
+      \field{title}{Polynomial Expansion for Orientation and Motion Estimation}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=1\_hmNQAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=1%5C_hmNQAACAAJ
+      \endverb
+    \endentry
+    \entry{10.1007/3-540-45103-X_50}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=7bda08f257f451eba0f1d8902689c8fb}{%
+           family={Farnebäck},
+           familyi={F\bibinitperiod},
+           given={Gunnar},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f93301a08a3be306a36b36f3f18777d6}{%
+           family={Bigun},
+           familyi={B\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dc1ac0103790a4e6dfe996f089a6c219}{%
+           family={Gustavsson},
+           familyi={G\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{7bda08f257f451eba0f1d8902689c8fb}
+      \strng{fullhash}{7bda08f257f451eba0f1d8902689c8fb}
+      \strng{bibnamehash}{7bda08f257f451eba0f1d8902689c8fb}
+      \strng{authorbibnamehash}{7bda08f257f451eba0f1d8902689c8fb}
+      \strng{authornamehash}{7bda08f257f451eba0f1d8902689c8fb}
+      \strng{authorfullhash}{7bda08f257f451eba0f1d8902689c8fb}
+      \strng{editorbibnamehash}{e64a542e6872ca0fb73c3cf08102aaea}
+      \strng{editornamehash}{e64a542e6872ca0fb73c3cf08102aaea}
+      \strng{editorfullhash}{e64a542e6872ca0fb73c3cf08102aaea}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a novel two-frame motion estimation algorithm. The first step is to approximate each neighborhood of both frames by quadratic polynomials, which can be done efficiently using the polynomial expansion transform. From observing how an exact polynomial transforms under translation a method to estimate displacement fields from the polynomial expansion coefficients is derived and after a series of refinements leads to a robust algorithm. Evaluation on the Yosemite sequence shows good results.}
+      \field{booktitle}{Image Analysis}
+      \field{isbn}{978-3-540-45103-7}
+      \field{title}{Two-Frame Motion Estimation Based on Polynomial Expansion}
+      \field{year}{2003}
+      \field{pages}{363\bibrangedash 370}
+      \range{pages}{8}
+    \endentry
+    \entry{Gibson1950-GIBTPO-2}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ea6712ad9271f5853a0b127d4d08d39b}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Boston: Houghton Mifflin}%
+      }
+      \strng{namehash}{ea6712ad9271f5853a0b127d4d08d39b}
+      \strng{fullhash}{ea6712ad9271f5853a0b127d4d08d39b}
+      \strng{bibnamehash}{ea6712ad9271f5853a0b127d4d08d39b}
+      \strng{authorbibnamehash}{ea6712ad9271f5853a0b127d4d08d39b}
+      \strng{authornamehash}{ea6712ad9271f5853a0b127d4d08d39b}
+      \strng{authorfullhash}{ea6712ad9271f5853a0b127d4d08d39b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Perception Of The Visual World}
+      \field{year}{1950}
+    \endentry
+    \entry{HalbothRoces2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=eb0f8bcdfa1f36b91bb7318c97429f29}{%
+           family={Halboth},
+           familyi={H\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3cb57bc15deb7736e8648ef4473d38fa}{%
+           family={Roces},
+           familyi={R\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9880e9760097481dfe5d07ae77ef5719}
+      \strng{fullhash}{9880e9760097481dfe5d07ae77ef5719}
+      \strng{bibnamehash}{9880e9760097481dfe5d07ae77ef5719}
+      \strng{authorbibnamehash}{9880e9760097481dfe5d07ae77ef5719}
+      \strng{authornamehash}{9880e9760097481dfe5d07ae77ef5719}
+      \strng{authorfullhash}{9880e9760097481dfe5d07ae77ef5719}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{11}
+      \field{title}{The construction of ventilation turrets in Atta vollenweideri leaf-cutting ants: Carbon dioxide levels in the nest tunnels, but not airflow or air humidity, influence turret structure}
+      \field{volume}{12}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0188162
+      \endverb
+    \endentry
+    \entry{Hamann}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cdf093c36fe8a9f12850ff9151234f5d}{%
+           family={Hamann},
+           familyi={H\bibinitperiod},
+           given={Heiko},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Spektrum Berlin,Heidelberg}%
+      }
+      \strng{namehash}{cdf093c36fe8a9f12850ff9151234f5d}
+      \strng{fullhash}{cdf093c36fe8a9f12850ff9151234f5d}
+      \strng{bibnamehash}{cdf093c36fe8a9f12850ff9151234f5d}
+      \strng{authorbibnamehash}{cdf093c36fe8a9f12850ff9151234f5d}
+      \strng{authornamehash}{cdf093c36fe8a9f12850ff9151234f5d}
+      \strng{authorfullhash}{cdf093c36fe8a9f12850ff9151234f5d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-662-58961-8}
+      \field{title}{Schwarmintelligenz}
+      \field{year}{2019}
+    \endentry
+    \entry{doi:10.1126/science.abe7729}{article}{}
+      \name{author}{14}{}{%
+        {{hash=11d018e35d392a6d23675204d5c3db7d}{%
+           family={Kienle},
+           familyi={K\bibinitperiod},
+           given={Korbinian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4f085d113256c6934a7c92e7989f1e67}{%
+           family={Glaser},
+           familyi={G\bibinitperiod},
+           given={Katharina\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=259231c8128c8484730574b42b61220a}{%
+           family={Eickhoff},
+           familyi={E\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a77bf120c02440a1e7018143ffdecb08}{%
+           family={Mihlan},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e672fc980e388d96773f6d3beed814ec}{%
+           family={Knöpper},
+           familyi={K\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6f900e05c02d00e1e9a2e29878abbeba}{%
+           family={Reátegui},
+           familyi={R\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=814e550eb93c6653d97a93d995fdf2c0}{%
+           family={Epple},
+           familyi={E\bibinitperiod},
+           given={Maximilian\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a9a95766aefe1f618558f2bd3dd8a6ef}{%
+           family={Gunzer},
+           familyi={G\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f025bced15aa85228f888ee2b6fa713}{%
+           family={Baumeister},
+           familyi={B\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d95b20542c5ced6cff4e89e5538ec76b}{%
+           family={Tarrant},
+           familyi={T\bibinitperiod},
+           given={Teresa\bibnamedelima K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a12327e3ebeab9c22a0e3e22e0b9dc7c}{%
+           family={Germain},
+           familyi={G\bibinitperiod},
+           given={Ronald\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f6fc1d0f667fc66eb6fc755b0bc56399}{%
+           family={Irimia},
+           familyi={I\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0d383a98e9355ba5bc62ff4cb06afa2c}{%
+           family={Kastenmüller},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ad972bb3963de1e4b16cbdaa3119d018}{%
+           family={Lämmermann},
+           familyi={L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8feb0d54a339cd79437cfb381aefbaca}
+      \strng{fullhash}{ee321390fcb0b78a9cb0eee8a600c2a5}
+      \strng{bibnamehash}{8feb0d54a339cd79437cfb381aefbaca}
+      \strng{authorbibnamehash}{8feb0d54a339cd79437cfb381aefbaca}
+      \strng{authornamehash}{8feb0d54a339cd79437cfb381aefbaca}
+      \strng{authorfullhash}{ee321390fcb0b78a9cb0eee8a600c2a5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neutrophils play a major role in the early immune response and are recruited in large numbers into inflamed and infected tissues. By secreting chemoattractants that bind G protein–coupled receptors (GPCRs) on neighboring cells, neutrophils coordinate their behavior as a swarm. Less clear is how this auto-amplifying swarming activity is ultimately turned off. Kienle et al. show that desensitization of these GPCRs by the same chemoattractants by GPCR-kinase 2 (GRK2) is one way in which these swarms are shut down (see the Perspective by Rocha-Gregg and Huttenlocher). Unexpectedly, mice with GRK2-deficient neutrophils showed impaired rather than enhanced bacterial clearance. The heightened scanning ability of GRK2-deficient neutrophils may come at the cost of suboptimal phagocytosis and containment of bacteria. Science, abe7729, this issue p. eabe7729; see also abj3065, p. 1262 Neutrophils have evolved an intrinsic mechanism to limit swarming and avoid uncontrolled aggregation during inflammation. Neutrophils communicate with each other to form swarms in infected organs. Coordination of this population response is critical for the elimination of bacteria and fungi. Using transgenic mice, we found that neutrophils have evolved an intrinsic mechanism to self-limit swarming and avoid uncontrolled aggregation during inflammation. G protein–coupled receptor (GPCR) desensitization acts as a negative feedback control to stop migration of neutrophils when they sense high concentrations of self-secreted attractants that initially amplify swarming. Interference with this process allows neutrophils to scan larger tissue areas for microbes. Unexpectedly, this does not benefit bacterial clearance as containment of proliferating bacteria by neutrophil clusters becomes impeded. Our data reveal how autosignaling stops self-organized swarming behavior and how the finely tuned balance of neutrophil chemotaxis and arrest counteracts bacterial escape.}
+      \field{journaltitle}{Science}
+      \field{number}{6548}
+      \field{title}{Neutrophils self-limit swarming to contain bacterial growth in vivo}
+      \field{volume}{372}
+      \field{year}{2021}
+      \field{pages}{eabe7729}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/science.abe7729
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.abe7729
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.abe7729
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.abe7729
+      \endverb
+    \endentry
+    \entry{inbook}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=969bebbabd91b1bb9b6194ce004fc099}{%
+           family={Majolo},
+           familyi={M\bibinitperiod},
+           given={Bonaventura},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bae56b2a92671ee892ddc65aa9200c92}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Pengzhen},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c54839f71003ec2bfe71df3475571fd1}
+      \strng{fullhash}{c54839f71003ec2bfe71df3475571fd1}
+      \strng{bibnamehash}{c54839f71003ec2bfe71df3475571fd1}
+      \strng{authorbibnamehash}{c54839f71003ec2bfe71df3475571fd1}
+      \strng{authornamehash}{c54839f71003ec2bfe71df3475571fd1}
+      \strng{authorfullhash}{c54839f71003ec2bfe71df3475571fd1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-47829-6}
+      \field{month}{12}
+      \field{title}{Group living}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1007/978-3-319-47829-6_1865-1
+      \endverb
+    \endentry
+    \entry{DBLP:journals/corr/abs-1811-05031}{article}{}
+      \name{author}{1}{}{%
+        {{hash=349f7e565b19452ba4b48c1444dd0784}{%
+           family={Margossian},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{fullhash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{bibnamehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{authorbibnamehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{authornamehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{authorfullhash}{349f7e565b19452ba4b48c1444dd0784}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{A Review of automatic differentiation and its efficient implementation}
+      \field{volume}{abs/1811.05031}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1811.05031
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1811.05031
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1811.05031
+      \endverb
+    \endentry
+    \entry{MARINI2015153}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7f3927bba3654b575ccca91d924e4dd9}{%
+           family={Marini},
+           familyi={M\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=89c54da251189fe0e870680d9b96c3e3}{%
+           family={Walczak},
+           familyi={W\bibinitperiod},
+           given={Beata},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5591c084673c245c4fcc5f35abfdf56d}
+      \strng{fullhash}{5591c084673c245c4fcc5f35abfdf56d}
+      \strng{bibnamehash}{5591c084673c245c4fcc5f35abfdf56d}
+      \strng{authorbibnamehash}{5591c084673c245c4fcc5f35abfdf56d}
+      \strng{authornamehash}{5591c084673c245c4fcc5f35abfdf56d}
+      \strng{authorfullhash}{5591c084673c245c4fcc5f35abfdf56d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Swarm-based algorithms emerged as a powerful family of optimization techniques, inspired by the collective behavior of social animals. In particle swarm optimization (PSO) the set of candidate solutions to the optimization problem is defined as a swarm of particles which may flow through the parameter space defining trajectories which are driven by their own and neighbors' best performances. In the present paper, the potential of particle swarm optimization for solving various kinds of optimization problems in chemometrics is shown through an extensive description of the algorithm (highlighting the importance of the proper choice of its metaparameters) and by means of selected worked examples in the fields of signal warping, estimation robust PCA solutions and variable selection.}
+      \field{issn}{0169-7439}
+      \field{journaltitle}{Chemometrics and Intelligent Laboratory Systems}
+      \field{title}{Particle swarm optimization (PSO). A tutorial}
+      \field{volume}{149}
+      \field{year}{2015}
+      \field{pages}{153\bibrangedash 165}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.chemolab.2015.08.020
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169743915002117
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169743915002117
+      \endverb
+      \keyw{Particle swarm optimization (PSO),Variable selection,Warping algorithms,Continue and discrete optimization,Swarm intelligence}
+    \endentry
+    \entry{Agarwal2019P.K}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=70b70df530972cd2cd1284562b1989a4}{%
+           family={Pankaj\bibnamedelimb K.\bibnamedelimi Agarwal},
+           familyi={P\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Kyle\bibnamedelima Fox},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod},
+           suffix={Esther\bibnamedelima Ezra},
+           suffixi={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Cham}%
+      }
+      \strng{namehash}{70b70df530972cd2cd1284562b1989a4}
+      \strng{fullhash}{70b70df530972cd2cd1284562b1989a4}
+      \strng{bibnamehash}{70b70df530972cd2cd1284562b1989a4}
+      \strng{authorbibnamehash}{70b70df530972cd2cd1284562b1989a4}
+      \strng{authornamehash}{70b70df530972cd2cd1284562b1989a4}
+      \strng{authorfullhash}{70b70df530972cd2cd1284562b1989a4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computing and Software Science. Lecture Notes in Computer Science}
+      \field{title}{Geometric Optimization Revisited}
+      \field{volume}{10000}
+      \field{year}{2019}
+      \field{pages}{66\bibrangedash 84}
+      \range{pages}{19}
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-91908-9_5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-91908-9_5
+      \endverb
+    \endentry
+    \entry{articleOpticalFlowKanade}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e9f33d6a9859a32a63dba5ca2fc0971f}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Dhara},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e6b9d8c686eca95c8d8e8e7ee0991275}{%
+           family={Upadhyay},
+           familyi={U\bibinitperiod},
+           given={Saurabh},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8970e2fde0be26459ad671e43f3b8a4f}
+      \strng{fullhash}{8970e2fde0be26459ad671e43f3b8a4f}
+      \strng{bibnamehash}{8970e2fde0be26459ad671e43f3b8a4f}
+      \strng{authorbibnamehash}{8970e2fde0be26459ad671e43f3b8a4f}
+      \strng{authornamehash}{8970e2fde0be26459ad671e43f3b8a4f}
+      \strng{authorfullhash}{8970e2fde0be26459ad671e43f3b8a4f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{month}{01}
+      \field{title}{Optical Flow Measurement using Lucas Kanade Method}
+      \field{volume}{61}
+      \field{year}{2013}
+      \field{pages}{6\bibrangedash 10}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.5120/9962-4611
+      \endverb
+    \endentry
+    \entry{Reynolds1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=488c27a2c91f666fcf3e7733b78b0c94}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{488c27a2c91f666fcf3e7733b78b0c94}
+      \strng{fullhash}{488c27a2c91f666fcf3e7733b78b0c94}
+      \strng{bibnamehash}{488c27a2c91f666fcf3e7733b78b0c94}
+      \strng{authorbibnamehash}{488c27a2c91f666fcf3e7733b78b0c94}
+      \strng{authornamehash}{488c27a2c91f666fcf3e7733b78b0c94}
+      \strng{authorfullhash}{488c27a2c91f666fcf3e7733b78b0c94}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{Steering Behaviors For Autonomous Characters}
+      \field{year}{2002}
+    \endentry
+    \entry{reynolds1987}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c565938772b0a9629e74a8f8f657693b}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Craig\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{c565938772b0a9629e74a8f8f657693b}
+      \strng{fullhash}{c565938772b0a9629e74a8f8f657693b}
+      \strng{bibnamehash}{c565938772b0a9629e74a8f8f657693b}
+      \strng{authorbibnamehash}{c565938772b0a9629e74a8f8f657693b}
+      \strng{authornamehash}{c565938772b0a9629e74a8f8f657693b}
+      \strng{authorfullhash}{c565938772b0a9629e74a8f8f657693b}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aggregate motion of a flock of birds, a herd of land animals, or a school of fish is a beautiful and familiar part of the natural world. But this type of complex motion is rarely seen in computer animation. This paper explores an approach based on simulation as an alternative to scripting the paths of each bird individually. The simulated flock is an elaboration of a particle system, with the simulated birds being the particles. The aggregate motion of the simulated flock is created by a distributed behavioral model much like that at work in a natural flock; the birds choose their own course. Each simulated bird is implemented as an independent actor that navigates according to its local perception of the dynamic environment, the laws of simulated physics that rule its motion, and a set of behaviours programmed into it by the {"}animator.{"} The aggregate motion of the simulated flock is the result of the dense interaction of the relatively simple behaviours of the individual simulated birds.}
+      \field{issn}{0097-8930}
+      \field{journaltitle}{SIGGRAPH Computer Graphics@book{Gibson1950-GIBTPO-2, author = {James J. Gibson}, publisher = {Boston: Houghton Mifflin}, title = {The Perception Of The Visual World}, year = {1950} }}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Flocks, Herds, and Schools: {A} Distributed Behavioral Model}
+      \field{volume}{21}
+      \field{year}{1987}
+      \field{pages}{25\bibrangedash 34}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/37402.37406
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/37402.37406
+      \endverb
+      \keyw{Algorithms,actor,aggregate animation,behavioral bird,constraints,design,fish,flight,flock,herd,motion,particle path planning school,system}
+    \endentry
+    \entry{DBLP:journals/corr/abs-1803-04351}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b16e0d5d71f607143af470414cccb574}{%
+           family={Romero{-}Ferrero},
+           familyi={R\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c352b4187eb77f96d3e0747212af10bc}{%
+           family={Bergomi},
+           familyi={B\bibinitperiod},
+           given={Mattia\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f22a4fee8a563baf6658651b10d5b3be}{%
+           family={Hinz},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0f196457a57f51ef05f6abf5713a891e}{%
+           family={Heras},
+           familyi={H\bibinitperiod},
+           given={Francisco\bibnamedelimb J.\bibnamedelimi H.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=68267ed9494194db9d065f48d71c04cb}{%
+           family={Polavieja},
+           familyi={P\bibinitperiod},
+           given={Gonzalo\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a16c6a1c5079855ad8c76aaa452d8dd}
+      \strng{fullhash}{bdd26e91af51125e6543cfab0408efae}
+      \strng{bibnamehash}{3a16c6a1c5079855ad8c76aaa452d8dd}
+      \strng{authorbibnamehash}{3a16c6a1c5079855ad8c76aaa452d8dd}
+      \strng{authornamehash}{3a16c6a1c5079855ad8c76aaa452d8dd}
+      \strng{authorfullhash}{bdd26e91af51125e6543cfab0408efae}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{idtracker.ai: Tracking all individuals in large collectives of unmarked animals}
+      \field{volume}{abs/1803.04351}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1803.04351
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1803.04351
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1803.04351
+      \endverb
+    \endentry
+    \entry{inheritaweight}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=12d92c08cbd739cb423645113fab45fd}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yuhui},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=14402b88a7a2374f1650daf04afe4b81}{%
+           family={Obaiahnahatti},
+           familyi={O\bibinitperiod},
+           given={B.Gireesha},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{094136eed81dc325a5adbd13428616be}
+      \strng{fullhash}{094136eed81dc325a5adbd13428616be}
+      \strng{bibnamehash}{094136eed81dc325a5adbd13428616be}
+      \strng{authorbibnamehash}{094136eed81dc325a5adbd13428616be}
+      \strng{authornamehash}{094136eed81dc325a5adbd13428616be}
+      \strng{authorfullhash}{094136eed81dc325a5adbd13428616be}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-7803-4869-9}
+      \field{journaltitle}{Proceedings of the IEEE Conference on Evolutionary Computation, ICEC}
+      \field{month}{06}
+      \field{title}{A Modified Particle Swarm Optimizer}
+      \field{volume}{6}
+      \field{year}{1998}
+      \field{pages}{69\bibrangedash 73}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICEC.1998.699146
+      \endverb
+    \endentry
+    \entry{wrightbrothers}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dd431fa66fcbbcc6b1ee2cb54ca95154}{%
+           family={Shrinath},
+           familyi={S\bibinitperiod},
+           given={Nishitha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3f48bb56908e7f195e4fe612f31bb05e}{%
+           family={Rangaswamy},
+           familyi={R\bibinitperiod},
+           given={Bidarakere},
+           giveni={B\bibinitperiod}}}%
+        {{hash=eedaa4577a516995533da8030ecf9e8c}{%
+           family={Sreenivas\bibnamedelima Reddy},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Bathula},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{99995304714bc8d81b42408c57103536}
+      \strng{fullhash}{99995304714bc8d81b42408c57103536}
+      \strng{bibnamehash}{99995304714bc8d81b42408c57103536}
+      \strng{authorbibnamehash}{99995304714bc8d81b42408c57103536}
+      \strng{authornamehash}{99995304714bc8d81b42408c57103536}
+      \strng{authorfullhash}{99995304714bc8d81b42408c57103536}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IJMTER}
+      \field{month}{04}
+      \field{title}{Biomimics}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{463\bibrangedash 467}
+      \range{pages}{5}
+    \endentry
+    \entry{Tunstrm2013CollectiveSM}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2be5e80d93578257a488e502d1e60410}{%
+           family={Tunstr{ø}m},
+           familyi={T\bibinitperiod},
+           given={Kolbj{ø}rn},
+           giveni={K\bibinitperiod}}}%
+        {{hash=508f94a78e0b91e6eee0f7c3e14292c6}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Yael},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2cab9b6eefe2e0536d7f6a63e4382b17}{%
+           family={Ioannou},
+           familyi={I\bibinitperiod},
+           given={Christos\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=50133bcfe412855af4d3150757bd353b}{%
+           family={Huepe},
+           familyi={H\bibinitperiod},
+           given={Cristián},
+           giveni={C\bibinitperiod}}}%
+        {{hash=993a10c0234bcaf592f10ec2f5dd6e4d}{%
+           family={Lutz},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2f62b6aee41665c647c022eea795e862}{%
+           family={Couzin},
+           familyi={C\bibinitperiod},
+           given={Iain\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{fullhash}{a0889db496f8304e090e1dff1f75c5dd}
+      \strng{bibnamehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{authorbibnamehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{authornamehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{authorfullhash}{a0889db496f8304e090e1dff1f75c5dd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Computational Biology}
+      \field{title}{Collective States, Multistability and Transitional Behavior in Schooling Fish}
+      \field{volume}{9}
+      \field{year}{2013}
+    \endentry
+    \entry{PSO_Overview}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e11b5fdba38c63b5a4a47845b18fc60a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dongshu},
+           giveni={D\bibinitperiod}}}%
+        {{hash=de744ff0ddc999971eea8ae593962c12}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Dapei},
+           giveni={D\bibinitperiod}}}%
+        {{hash=28dcf77c455b7bee7b41d166d220da13}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{fullhash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{bibnamehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{authorbibnamehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{authornamehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{authorfullhash}{1243814b1f531215a9b06ac1c00c5242}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soft Computing}
+      \field{month}{01}
+      \field{title}{Particle swarm optimization algorithm: an overview}
+      \field{volume}{22}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1007/s00500-016-2474-6
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{1}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Couzin2002CollectiveMA}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2f62b6aee41665c647c022eea795e862}{%
+           family={Couzin},
+           familyi={C\bibinitperiod},
+           given={Iain\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e8522f69e0b7ebdc1f923ae82d7449b0}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b6db3c5ae1ca380e804836bbb90bd8a6}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=beb13fb240d0f37a635982010b6a4bb1}{%
+           family={Ruxton},
+           familyi={R\bibinitperiod},
+           given={Graeme\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3732fd36be57966054822f3397e1b43a}{%
+           family={Franks},
+           familyi={F\bibinitperiod},
+           given={Nigel\bibnamedelima R.},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{fullhash}{319f755b24cd4cedcae2c0c098a23132}
+      \strng{bibnamehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{authorbibnamehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{authornamehash}{b91408bb69967b5c68045d252523b1f2}
+      \strng{authorfullhash}{319f755b24cd4cedcae2c0c098a23132}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of theoretical biology}
+      \field{title}{Collective memory and spatial sorting in animal groups.}
+      \field{volume}{218 1}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{DBLP:journals/corr/abs-1811-05031}{article}{}
+      \name{author}{1}{}{%
+        {{hash=349f7e565b19452ba4b48c1444dd0784}{%
+           family={Margossian},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{fullhash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{bibnamehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{authorbibnamehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{authornamehash}{349f7e565b19452ba4b48c1444dd0784}
+      \strng{authorfullhash}{349f7e565b19452ba4b48c1444dd0784}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{A Review of automatic differentiation and its efficient implementation}
+      \field{volume}{abs/1811.05031}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1811.05031
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1811.05031
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1811.05031
+      \endverb
+    \endentry
+    \entry{Tunstrm2013CollectiveSM}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2be5e80d93578257a488e502d1e60410}{%
+           family={Tunstr{ø}m},
+           familyi={T\bibinitperiod},
+           given={Kolbj{ø}rn},
+           giveni={K\bibinitperiod}}}%
+        {{hash=508f94a78e0b91e6eee0f7c3e14292c6}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Yael},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2cab9b6eefe2e0536d7f6a63e4382b17}{%
+           family={Ioannou},
+           familyi={I\bibinitperiod},
+           given={Christos\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=50133bcfe412855af4d3150757bd353b}{%
+           family={Huepe},
+           familyi={H\bibinitperiod},
+           given={Cristián},
+           giveni={C\bibinitperiod}}}%
+        {{hash=993a10c0234bcaf592f10ec2f5dd6e4d}{%
+           family={Lutz},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2f62b6aee41665c647c022eea795e862}{%
+           family={Couzin},
+           familyi={C\bibinitperiod},
+           given={Iain\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{fullhash}{a0889db496f8304e090e1dff1f75c5dd}
+      \strng{bibnamehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{authorbibnamehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{authornamehash}{c35907846a0afa2035182461ec8b8d4b}
+      \strng{authorfullhash}{a0889db496f8304e090e1dff1f75c5dd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Computational Biology}
+      \field{title}{Collective States, Multistability and Transitional Behavior in Schooling Fish}
+      \field{volume}{9}
+      \field{year}{2013}
+    \endentry
+    \entry{PSO_Overview}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e11b5fdba38c63b5a4a47845b18fc60a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dongshu},
+           giveni={D\bibinitperiod}}}%
+        {{hash=de744ff0ddc999971eea8ae593962c12}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Dapei},
+           giveni={D\bibinitperiod}}}%
+        {{hash=28dcf77c455b7bee7b41d166d220da13}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{fullhash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{bibnamehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{authorbibnamehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{authornamehash}{1243814b1f531215a9b06ac1c00c5242}
+      \strng{authorfullhash}{1243814b1f531215a9b06ac1c00c5242}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soft Computing}
+      \field{month}{01}
+      \field{title}{Particle swarm optimization algorithm: an overview}
+      \field{volume}{22}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1007/s00500-016-2474-6
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,76 @@
+% !TEX root = ../thesis.tex
+
+\usepackage{todonotes}
+\usepackage{enumitem}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\newcommand\MyBox[3]{
+	\fcolorbox{white}{#3}{
+		\lower1.0em
+		\vbox to 2.7cm{\vfil
+			\hbox to 2.7cm{\hfil\parbox{2.3cm}{\bfseries\centering#1\\\centering#2}\hfil}
+			\vfil}%
+	}
+}%
+
+\definecolor{applegreen}{rgb}{0.13, 0.55, 0.13}
+
+\newcommand\MyThinnerBox[2]{
+	\fcolorbox{white}{#2}{
+		\lower1.0em
+		\vbox to 2.7cm{\vfil
+			\hbox to 1.3cm{\hfil\parbox{1.0cm}{\bfseries\centering#1}\hfil}
+			\vfil}%
+	}
+}%
+
+\newcommand\MySmallerThinnerBox[2]{
+	\fcolorbox{white}{#2}{
+		\lower0.5em
+		\vbox to 1.3cm{\vfil
+			\hbox to 1.3cm{\hfil\parbox{1.0cm}{\bfseries\centering#1}\hfil}
+			\vfil}%
+	}
+}%
+
+\newcommand\MySmallerBox[2]{
+	\fcolorbox{white}{#2}{
+		\lower0.5em
+		\vbox to 1.3cm{\vfil
+			\hbox to 2.7cm{\hfil\parbox{2.3cm}{\bfseries\centering#1}\hfil}
+			\vfil}%
+	}
+}%
+
+
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % linksbündig mit Breitenangabe
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}} % zentriert mit Breitenangabe
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}} % rechtsbündig mit Breitenangabe
+
+\newenvironment{condright}
+{\par\vspace{\abovedisplayskip}\noindent\begin{tabular}{>{$}l<{$} @{${}={}$} l}}
+	{\end{tabular}\par\vspace{\belowdisplayskip}}
+
+\newenvironment{condleft}
+{\par\vspace{\abovedisplayskip}\noindent\begin{tabular}{l @{${}={}$} >{$}l<{$}}}
+	{\end{tabular}\par\vspace{\belowdisplayskip}}
+
+\newcommand*\rot{\rotatebox{90}}
+
+\newcommand*{\footurl}[1]{\footnote{\url{#1}}}
+
+
+\def\PointNetpp{{PointNet\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\tiny\bf ++}}}
+
+\usepackage{caption}
+\captionsetup{format=hang}
+\usepackage{float}
+\restylefloat{table}
+
+
+ \usepackage[notquote]{hanging}
